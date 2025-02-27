@@ -1,177 +1,361 @@
-pk_personne;nom;prenom;sexe;date_de_mort;source
-1;blant-mojon;colette;F;;4CHA-2/25
-2;corswant;marcelle;F;;4CHA-2/25
-3;beuret;helene;F;;"4CHA-2/25
+pk_personne;nom;prenom;sexe;adhésion;date_de_mort;source
+1;blant-mojon;colette;F;1944;;4CHA-2/25
+2;corswant;marcelle;F;;;4CHA-2/25
+3;beuret;helene;F;;;"4CHA-2/25
 "
-4;greub;margot;F;;"4CHA-2/25
+4;greub;margot;F;;;"4CHA-2/25
 "
-5;aeschlimann;jeanne-marie;F;;4CHA-2/25
-6;huther;josette;F;;4CHA-2/26
-7;hugonet;monique;F;;
-8;l'Eplattenier;lily;F;;4CHA-2/26
-9;perinat;maryse;F;;
-10;steigmeier;luce;F;;
-11;bottani;anna;F;;4CHA-2/27
-12;robert;eugene;M;;4CHA-2/25
-13;meylan;rene;M;;4CHA-2/25
-14;barbier;jean-louis;M;;4CHA-2/25
-15;lauber;marcel;M;;4CHA-2/24
-16;chervet;georges;M;;4CHA-2/24
-17;bing;gilbert;M;;4CHA-2/24
-18;beck;daisy;F;;4CHA-2/25
-19;duvanel;jean;M;;4CHA-2/24
-20;de_ribaupierre;rene;M;;4CHA-2/25
-21;sidler;louis;M;;4CHA-2/25
-22;castella;charles;M;;4CHA-2/24
-23;vernier;angele;M;;4CHA-2/25
-24;cachelin;georges;M;;4CHA-2/24
-25;gaillet;louis;M;;4CHA-2/25
-26;leuba;clovis;M;;4CHA-2/24
-27;hirschi;gerard;M;;4CHA-2/25
-28;pluss;ester;F;;4CHA-2/25
-29;de_ribaupierre;suzanne;F;;4CHA-2/25
-30;annen;daniel;M;;4CHA-2/26
-31;guillod;jacques;M;;4CHA-2/25
-33;leuba;pierre;M;;4CHA-2/26
-34;michel;paul;M;;4CHA-2/26
-35;payot;francois;M;;4CHA-2/26
-36;pingeon;gilbert;M;;4CHA-2/26
-37;perret-gentil;rene;M;;4CHA-2/26
-38;rebetez;francois;M;;4CHA-2/26
-39;scuri;paul;M;;4CHA-2/26
-40;wulser;hugues;M;;4CHA-2/26
-41;dind;jacques;M;;4CHA-2/26
-42;eggimann;chantal;M;;4CHA-2/26
-43;greub;andre;M;;4CHA-2/26
-44;emery;anne-lise;F;;4CHA-2/27
-45;girardet;james;M;;4CHA-2/27
-46;kuhn;joelle;M;;4CHA-2/27
-47;rollier;daisy;F;;4CHA-2/27
-48;schukthess;daniel;M;;4CHA-2/27
-49;gaberelle;jean-michel;M;;4CHA-2/27
-50;humbert;fred-alain;M;;"4CHA-2/27
+5;aeschlimann;jeanne-marie;F;1961;;4CHA-2/25
+6;huther;josette;F;;;4CHA-2/26
+7;hugonet;monique;F;1968;;
+8;Eplattenier;lily;F;1967;;4CHA-2/26
+9;perinat;maryse;F;1975;;Bulletins d'adhésion, 1973-1984
+10;steigmeier;luce;F;1974;;
+11;bottani;anna;F;;;4CHA-2/27
+12;robert;eugene;M;;;4CHA-2/25
+13;meylan;rene;M;;;4CHA-2/25
+14;barbier;jean-louis;M;;;4CHA-2/25
+15;lauber;marcel;M;;;4CHA-2/24
+16;chervet;georges;M;;;4CHA-2/24
+17;bing;gilbert;M;;;4CHA-2/24
+18;beck;daisy;F;1959;;4CHA-2/25
+19;duvanel;jean;M;;;4CHA-2/24
+20;de_ribaupierre;rene;M;1959;;4CHA-2/25
+21;sidler;louis;M;;;4CHA-2/25
+22;castella;charles;M;;;4CHA-2/24
+23;vernier;angele;M;;;4CHA-2/25
+24;cachelin;georges;M;1956;;4CHA-2/24
+25;gaillet;louis;M;;;4CHA-2/25
+26;leuba;clovis;M;;;4CHA-2/24
+27;hirschi;gerard;M;;;4CHA-2/25
+28;pluss;esther;F;1964;;4CHA-2/25
+29;de_ribaupierre;suzanne;F;;;4CHA-2/25
+30;annen;daniel;M;1967;;4CHA-2/26
+31;guillod;jacques;M;;;4CHA-2/25
+33;leuba;pierre;M;1967;;4CHA-2/26
+34;michel;paul;M;;;4CHA-2/26
+35;payot;francois;M;;;4CHA-2/26
+36;pingeon;gilbert;M;;;4CHA-2/26
+37;perret-gentil;rene;M;;;4CHA-2/26
+38;rebetez;francois;M;1969;;4CHA-2/26
+39;scuri;paul;M;;;4CHA-2/26
+40;wulser;hugues;M;;;4CHA-2/26
+41;dind;jacques;M;1967;;4CHA-2/26
+42;eggimann;chantal;M;;;4CHA-2/26
+43;greub;andre;M;1960;;4CHA-2/26
+44;emery;anne-lise;F;1976;;4CHA-2/27
+45;girardet;james;M;;;4CHA-2/27
+46;kuhn;joelle;M;1976;;4CHA-2/27
+47;rollier;daisy;F;;;4CHA-2/27
+48;schukthess;daniel;M;;;4CHA-2/27
+49;gaberelle;jean-michel;M;;;4CHA-2/27
+50;humbert;fred-alain;M;1976;;"4CHA-2/27
 "
-51;lenoble;francoise;F;;"4CHA-2/27
+51;lenoble;francoise;F;;;"4CHA-2/27
 "
-52;papetti;chantal;F;;"4CHA-2/27
+52;papetti;chantal;F;;;"4CHA-2/27
 "
-53;gremaud;armand;M;;"4CHA-2/26
+53;gremaud;armand;M;;;"4CHA-2/26
 "
-54;sandoz;alain;M;;"4CHA-2/26
+54;sandoz;alain;M;;;"4CHA-2/26
 "
-55;vuilleumier;raymond;M;;"4CHA-2/26
+55;vuilleumier;raymond;M;1966;;"4CHA-2/26
 "
-56;vuilleme;gilbert;M;;4CHA-2/25
-57;lagger;paul;M;;"4CHA-2/26
+56;vuilleme;gilbert;M;;;4CHA-2/25
+57;lagger;paul;M;;;"4CHA-2/26
 "
-58;troyon;ginette;F;;"4CHA-2/26
+58;troyon;ginette;F;1964;;"4CHA-2/26
 "
-59;maire;marcel;M;;4CHA-2/25
-60;wegmuller;roger;M;;4CHA-2/25
-61;blaser;frederic;M;;4CHA-2/26
-62;quartier;louisette;F;;4CHA-2/24
-63;brigadoi;alois;M;;4CHA-2/24
-64;blaser;jean;M;;4CHA-2/24
-65;brodars;jean;M;;4CHA-2/24
-66;friolet;charles;M;;4CHA-2/24
-67;huguenin;charles;M;;4CHA-2/24
-68;huguenin;jean;M;;4CHA-2/24
-70;donze;laurent;M;;4CHA-2/25
-71;huguenin;micheline;F;;4CHA-2/25
-72;quartier;marcel;M;;4CHA-2/25
-73;emery;michel;M;;4CHA-2/26
-74;leimburger;claude;M;;4CHA-2/26
-75;boss;berthold;M;;"4CHA-2/27
+59;maire;marcel;M;;;4CHA-2/25
+60;wegmuller;roger;M;;;4CHA-2/25
+61;blaser;frederic;M;;;4CHA-2/26
+62;quartier;louisette;F;;;4CHA-2/24
+63;brigadoi;alois;M;;;4CHA-2/24
+64;blaser;jean;M;;;4CHA-2/24
+65;brodars;jean;M;;;4CHA-2/24
+66;friolet;charles;M;;;4CHA-2/24
+67;huguenin;charles;M;;;4CHA-2/24
+68;huguenin;jean;M;;;4CHA-2/24
+70;donze;laurent;M;;;4CHA-2/25
+71;huguenin;micheline;F;;;4CHA-2/25
+72;quartier;marcel;M;;;4CHA-2/25
+73;emery;michel;M;;;4CHA-2/26
+74;leimburger;claude;M;;;4CHA-2/26
+75;boss;berthold;M;;;"4CHA-2/27
 "
-76;huguenin;marianne;F;;"4CHA-2/27
+76;huguenin;marianne;F;1970;;"4CHA-2/27
 "
-77;blaser;jean-pierre;M;;"4CHA-2/27
+77;blaser;jean-pierre;M;1976;;"4CHA-2/27
 "
-79;debieux;charly;M;;"4CHA-2/27
+79;debieux;charly;M;;;"4CHA-2/27
 "
-80;guyot;jean;M;;"4CHA-2/27
+80;guyot;jean;M;;;"4CHA-2/27
 "
-81;scheurer;thomas;M;;"4CHA-2/27
+81;scheurer;thomas;M;;;"4CHA-2/27
 "
-82;corswant;andre;M;23.8.1964;"4CHA-2/24
+82;corswant;andre;M;;23.8.1964;"4CHA-2/24
 "
-83;roulet;charles;M;;"4CHA-2/24
+83;roulet;charles;M;;;"4CHA-2/24
 "
-84;steiger;jean;M;;"4CHA-2/24
+84;steiger;jean;M;;;"4CHA-2/24
 "
-85;vuilleumier;maurice;M;;"4CHA-2/24
+85;vuilleumier;maurice;M;;;"4CHA-2/24
 "
-86;costet;marcel;M;;"4CHA-2/24
+86;costet;marcel;M;;;"4CHA-2/24
 "
-87;pellaton;eugène;M;;4CHA-2/25
-88;imhof;gilbert;M;;4CHA-2/25
-89;weber;alexandre;M;;"4CHA-2/24
+87;pellaton;eugène;M;;;4CHA-2/25
+88;imhof;gilbert;M;;;4CHA-2/25
+89;weber;alexandre;M;;;"4CHA-2/24
 "
-90;thomi;philippe;M;;"4CHA-2/24
+90;thomi;philippe;M;;;"4CHA-2/24
 "
-91;beguin;albert;M;;"4CHA-2/24
+91;beguin;albert;M;;;"4CHA-2/24
 "
-92;beuret;robert;M;;"4CHA-2/24
+92;beuret;robert;M;;;"4CHA-2/24
 "
-94;broillet;etienne;M;;"4CHA-2/25
+94;broillet;etienne;M;;;"4CHA-2/25
 "
-95;bruhlhart;georges;M;;"4CHA-2/25
+95;bruhlhart;georges;M;;;"4CHA-2/25
 "
-97;gerber;christian;M;;"4CHA-2/25
+97;gerber;christian;M;;;"4CHA-2/25
 "
-99;jacot;pierre;M;;"4CHA-2/25
+99;jacot;pierre;M;;;"4CHA-2/25
 "
-100;lengacher;madeleine;F;;"4CHA-2/25
+100;lengacher;madeleine;F;1961;;"4CHA-2/25
 "
-101;roulet;pierre;M;;"4CHA-2/25
+101;roulet;pierre;M;;;"4CHA-2/25
 "
-102;schweizer;elisabeth;F;;"4CHA-2/25
+102;schweizer;elisabeth;F;;;"4CHA-2/25
 "
-103;calame;samuel;M;;"4CHA-2/25
+103;calame;samuel;M;;;"4CHA-2/25
 "
-104;dubois;lucien;M;;"4CHA-2/25
+104;dubois;lucien;M;;;"4CHA-2/25
 "
-105;hauser;alfred;M;;"4CHA-2/25
+105;hauser;alfred;M;;;"4CHA-2/25
 "
-106;hirsch;pierre;M;;"4CHA-2/25
+106;hirsch;pierre;M;;;"4CHA-2/25
 "
-107;john;pierre;M;;"4CHA-2/25
+107;john;pierre;M;;;"4CHA-2/25
 "
-108;kramer;jacques;M;;"4CHA-2/25
+108;kramer;jacques;M;;;"4CHA-2/25
 "
-109;blant;rene;M;;"4CHA-2/25
+109;blant;rene;M;;;"4CHA-2/25
 "
-110;dubois;andre;M;;"4CHA-2/25
+110;dubois;andre;M;;;"4CHA-2/25
 "
-111;dubois;jean-pierre;M;;4CHA-2/25
-112;froidevaux;denis;M;;"4CHA-2/25
+111;dubois;jean-pierre;M;;;4CHA-2/25
+112;froidevaux;denis;M;;;"4CHA-2/25
 "
-113;gysin;yolande;F;;"4CHA-2/25
+113;gysin;yolande;F;1960;;"4CHA-2/25
 "
-114;huguenin;gabrielle;F;;"4CHA-2/25
+114;huguenin;gabrielle;F;;;"4CHA-2/25
 "
-115;lengacher;henri;M;;"4CHA-2/25
+115;lengacher;henri;M;;;"4CHA-2/25
 "
-116;roulet;genevieve;F;;"4CHA-2/25
+116;roulet;genevieve;F;;;"4CHA-2/25
 "
-117;berger;gerard;M;;"4CHA-2/27
+117;berger;gerard;M;1967;;"4CHA-2/27
 "
-118;bringolf;alain;M;;4CHA-2/27
-119;gutmann;andre;M;;"4CHA-2/27
+118;bringolf;alain;M;1964;;4CHA-2/27
+119;gutmann;andre;M;;;"4CHA-2/27
 "
-120;santschi;walter;M;;"4CHA-2/27
+120;santschi;walter;M;;;"4CHA-2/27
 "
-121;vuilleumier;claudine;F;;"4CHA-2/27
+121;vuilleumier;claudine;F;1972;;"4CHA-2/27
 "
-122;berger;helene;F;;"4CHA-2/27
+122;berger;helene;F;;;"4CHA-2/27
 "
-123;berger;pierre;M;;"4CHA-2/27
+123;berger;pierre;M;1970;;"4CHA-2/27
 "
-124;cerf;michele;F;;"4CHA-2/27
+124;cerf;michele;F;1976;;"4CHA-2/27
 "
-125;huggler;david;M;;4CHA-2/27
-126;vuille;nicole;F;;"4CHA-2/27
+125;huggler;david;M;;;4CHA-2/27
+126;vuille;nicole;F;;;"4CHA-2/27
 "
-127;boegli;jean-pierre;M;;
-128;laubscher;nelly;F;;
-129;lehmann;jean-claude;M;;
+127;boegli;jean-pierre;M;1966;;
+128;laubscher;nelly;F;1964;;Bulletins d'adhésion, 1956-1973
+129;lehmann;jean-claude;M;;;
+130;brigadoi;cilette;F;1956;;Bulletins d'adhésion, 1956-1973
+131;gabus;henriette;F;1956;;Bulletins d'adhésion, 1956-1973
+132;bottani;arnold;M;1957;;Bulletins d'adhésion, 1956-1973
+133;regnard;anna;F;1957;;Bulletins d'adhésion, 1956-1973
+134;bonfils;germaine;F;1958;;Bulletins d'adhésion, 1956-1973
+135;lambocher;jacqueline;F;1959;;Bulletins d'adhésion, 1956-1973
+136;de_la_reusille;charly;M;1959;;Bulletins d'adhésion, 1956-1973
+137;rido;mariette;F;1960;;Bulletins d'adhésion, 1956-1973
+138;noverraz;cecile;F;1960;;Bulletins d'adhésion, 1956-1973
+139;bonvin;lily;F;1960;;Bulletins d'adhésion, 1956-1973
+140;dupuis;marguerite;F;1960;;Bulletins d'adhésion, 1956-1973
+141;gysin;lucie;F;1960;;Bulletins d'adhésion, 1956-1973
+142;gysin;pierre;F;1960;;Bulletins d'adhésion, 1956-1973
+144;racordon;jeanne;F;1960;;Bulletins d'adhésion, 1956-1973
+145;roulet;ginette;F;1960;;Bulletins d'adhésion, 1956-1973
+146;thomi;jaqueline;F;1960;;Bulletins d'adhésion, 1956-1973
+147;winkler;betty;F;1960;;Bulletins d'adhésion, 1956-1973
+148;mathey;erika;F;1960;;Bulletins d'adhésion, 1956-1973
+149;beretta;annette;F;1960;;Bulletins d'adhésion, 1956-1973
+150;riedo;gertrude;F;1960;;Bulletins d'adhésion, 1956-1973
+151;houlmann;helga;F;1961;;Bulletins d'adhésion, 1956-1973
+152;menoz;yvonne;F;1961;;Bulletins d'adhésion, 1956-1973
+153;gerber;heliette;F;1961;;Bulletins d'adhésion, 1956-1973
+154;humbert;cosette;F;1961;;Bulletins d'adhésion, 1956-1973
+155;egger;madeleine;F;1961;;Bulletins d'adhésion, 1956-1973
+156;huguenin;nadine;F;1961;;Bulletins d'adhésion, 1956-1973
+157;huguenin;danielle;F;1961;;Bulletins d'adhésion, 1956-1973
+158;gfeller;;F;1961;;Bulletins d'adhésion, 1956-1973
+159;froidevaux;michèle;F;1962;;Bulletins d'adhésion, 1956-1973
+160;calame;sylda;F;1962;;Bulletins d'adhésion, 1956-1973
+161;weber;gabrielle;F;1962;;Bulletins d'adhésion, 1956-1973
+162;vuilleumier;micheline;F;1962;;Bulletins d'adhésion, 1956-1973
+163;robert;liliane;F;1963;;Bulletins d'adhésion, 1956-1973
+164;perrenoud;colette;F;1963;;Bulletins d'adhésion, 1956-1973
+165;tripet;liliane;F;1963;;Bulletins d'adhésion, 1956-1973
+166;scheinegger;maryse;F;1963;;Bulletins d'adhésion, 1956-1973
+167;grisel;francoise;F;1963;;Bulletins d'adhésion, 1956-1973
+168;boichat;suzanne;F;1963;;Bulletins d'adhésion, 1956-1973
+169;ganguillet;sonia;F;1963;;Bulletins d'adhésion, 1956-1973
+170;imhof;francine;F;1963;;Bulletins d'adhésion, 1956-1973
+171;haeny;andre;M;1963;;Bulletins d'adhésion, 1956-1973
+172;haeny;jaqueline;F;1963;;Bulletins d'adhésion, 1956-1973
+173;wittmer;danielle;F;1963;;Bulletins d'adhésion, 1956-1973
+174;olivieri;marianne;F;1964;;Bulletins d'adhésion, 1956-1973
+175;glauche;gilberte;F;1964;;Bulletins d'adhésion, 1956-1973
+176;bolliger;;M;;;
+177;meunier;josette;F;1964;;Bulletins d'adhésion, 1956-1973
+178;donze;ornella;F;1964;;Bulletins d'adhésion, 1956-1973
+179;troyan;daniel;M;1964;;Bulletins d'adhésion, 1956-1973
+181;richardet;elyane;F;1964;;Bulletins d'adhésion, 1956-1973
+182;echenard;isabelle;F;1964;;Bulletins d'adhésion, 1956-1973
+183;bandelieu;angele;F;1964;;Bulletins d'adhésion, 1956-1973
+184;broillet;louise;F;1964;;Bulletins d'adhésion, 1956-1973
+185;broillet;daisy;F;1964;;Bulletins d'adhésion, 1956-1973
+186;evard;marguerite;F;1964;;Bulletins d'adhésion, 1956-1973
+187;roulet;suzanne;F;1964;;Bulletins d'adhésion, 1956-1973
+188;epplatenier;edell;F;1964;;Bulletins d'adhésion, 1956-1973
+189;jacot;raymonde;F;1964;;Bulletins d'adhésion, 1956-1973
+190;corswant;lucienne;F;1964;;Bulletins d'adhésion, 1956-1973
+191;lagger;yvette;F;1964;;Bulletins d'adhésion, 1956-1973
+192;siegrist;alice;F;1964;;Bulletins d'adhésion, 1956-1973
+193;siegrist;walter;M;1964;;Bulletins d'adhésion, 1956-1973
+194;rolli;hans;M;1964;;Bulletins d'adhésion, 1956-1973
+195;rolli;bleuette;F;1964;;Bulletins d'adhésion, 1956-1973
+196;de_la_reusille;renee;F;1964;;Bulletins d'adhésion, 1956-1973
+197;othenin-girard;felix;M;1964;;Bulletins d'adhésion, 1956-1973
+198;othenin-girard;germaine;F;1964;;Bulletins d'adhésion, 1956-1973
+199;laubscher;roger;M;1964;;Bulletins d'adhésion, 1956-1973
+200;fahrni;vereine;F;1964;;Bulletins d'adhésion, 1956-1973
+201;donze;helene;F;1964;;Bulletins d'adhésion, 1956-1973
+202;bonzon;gaston;M;1964;;Bulletins d'adhésion, 1956-1973
+203;bonzon;fernande;F;1965;;Bulletins d'adhésion, 1956-1973
+204;aebischer;suzanne;F;1964;;Bulletins d'adhésion, 1956-1973
+205;stoll;marguerite;F;1965;;Bulletins d'adhésion, 1956-1973
+206;py;anne-marie;F;1965;;Bulletins d'adhésion, 1956-1973
+207;grandjean;agathe;F;1965;;Bulletins d'adhésion, 1956-1973
+208;blandenier;helene;F;1965;;Bulletins d'adhésion, 1956-1973
+209;robert;suzanne;F;1965;;Bulletins d'adhésion, 1956-1973
+210;voutat;erica;F;1965;;Bulletins d'adhésion, 1956-1973
+211;joliat;madeleine;F;1965;;Bulletins d'adhésion, 1956-1973
+212;joliat;raymond;M;1965;;Bulletins d'adhésion, 1956-1973
+213;amez-droz;isabelle;F;1965;;Bulletins d'adhésion, 1956-1973
+214;espagne;martte;F;1965;;Bulletins d'adhésion, 1956-1973
+215;schlaggi;emma;F;1965;;Bulletins d'adhésion, 1956-1973
+216;marechal-boyer;yvette;F;1965;;Bulletins d'adhésion, 1956-1973
+217;carnal;rose;F;1966;;Bulletins d'adhésion, 1956-1973
+218;fahrni;pierrette;F;1967;;Bulletins d'adhésion, 1956-1973
+219;perrot;anna;F;1967;;Bulletins d'adhésion, 1956-1973
+220;bieri;bluette;F;1967;;Bulletins d'adhésion, 1956-1973
+221;berger;marie-claude;F;1967;;Bulletins d'adhésion, 1956-1973
+222;moresi;alice;F;1966;;Bulletins d'adhésion, 1956-1973
+223;gurtner;simone;F;1967;;Bulletins d'adhésion, 1956-1973
+224;guyot;charlotte;F;1967;;Bulletins d'adhésion, 1956-1973
+225;martinelli;bluette;F;1967;;Bulletins d'adhésion, 1956-1973
+226;roulet;francoise;F;1967;;Bulletins d'adhésion, 1956-1973
+227;mollard;marie-louise;F;1967;;Bulletins d'adhésion, 1956-1973
+228;mollard;georges;M;1967;;Bulletins d'adhésion, 1956-1973
+229;annen;georges;M;;;
+230;annen;nicole;F;1967;;Bulletins d'adhésion, 1956-1973
+231;annen;nelly;F;1967;;Bulletins d'adhésion, 1956-1973
+232;greub;helene;F;1968;;Bulletins d'adhésion, 1956-1973
+233;blaser;nelly;F;1968;;Bulletins d'adhésion, 1956-1973
+234;thalmann;francine;F;1968;;Bulletins d'adhésion, 1956-1973
+235;muhleberger;bertha;F;1968;;Bulletins d'adhésion, 1956-1973
+236;bryois;ursula;F;1968;;Bulletins d'adhésion, 1956-1973
+237;leimgruber;ursule;F;1968;;Bulletins d'adhésion, 1956-1973
+238;mathey;berthe;F;1968;;Bulletins d'adhésion, 1956-1973
+239;wolf;claudine;F;1968;;Bulletins d'adhésion, 1956-1973
+240;fuhrmann;maryse;F;1969;;Bulletins d'adhésion, 1956-1973
+241;guillod;pierrette;F;1969;;Bulletins d'adhésion, 1956-1973
+242;humberset;suzanne;F;1969;;Bulletins d'adhésion, 1956-1973
+243;blaser;marianne;F;1970;;Bulletins d'adhésion, 1956-1973
+244;grin;claude-nicole;F;1970;;Bulletins d'adhésion, 1956-1973
+245;moer;claire;F;1970;;Bulletins d'adhésion, 1956-1973
+246;wermeille;josette;F;1971;;Bulletins d'adhésion, 1956-1973
+247;bura;helene;F;1971;;Bulletins d'adhésion, 1956-1973
+248;babillier;vera;F;1971;;Bulletins d'adhésion, 1956-1973
+249;fleury;francine;F;1971;;Bulletins d'adhésion, 1956-1973
+250;carnal;edwige;F;1971;;Bulletins d'adhésion, 1956-1973
+251;bruni;christiane;F;1972;;Bulletins d'adhésion, 1956-1973
+252;forero;gilberte;F;1972;;Bulletins d'adhésion, 1956-1973
+253;forero;jairo;F;1972;;Bulletins d'adhésion, 1956-1973
+254;del_boca;josiane;F;1972;;Bulletins d'adhésion, 1956-1973
+255;epplatenier;nelly;F;1972;;Bulletins d'adhésion, 1956-1973
+256;huguenin;anne-lise;F;1972;;Bulletins d'adhésion, 1956-1973
+257;grandjean;helene;F;1972;;Bulletins d'adhésion, 1956-1973
+258;gauthier;patricia;F;1972;;Bulletins d'adhésion, 1956-1973
+259;zumkehr;marlene;F;1972;;Bulletins d'adhésion, 1956-1973
+260;peverelli;rose;F;1972;;Bulletins d'adhésion, 1956-1973
+261;huguenin;marie;F;1972;;Bulletins d'adhésion, 1956-1973
+262;rochat;lea;F;1972;;Bulletins d'adhésion, 1956-1973
+263;santschi;nicole;F;1972;;Bulletins d'adhésion, 1956-1973
+264;gutmann;josette;F;1973;;Bulletins d'adhésion, 1956-1973
+265;guenat;monique;F;1973;;Bulletins d'adhésion, 1956-1973
+266;bourquenez;daisy;F;1973;;Bulletins d'adhésion, 1973-1984
+267;gassmann-malaspina;lila;F;1974;;Bulletins d'adhésion, 1973-1984
+268;stampfli;jocelyne;F;1974;;Bulletins d'adhésion, 1973-1984
+269;berger;marta-helene;F;1975;;Bulletins d'adhésion, 1973-1984
+270;bringolf;chatherine;F;1975;;Bulletins d'adhésion, 1973-1984
+271;krieg;alice;F;1975;;Bulletins d'adhésion, 1973-1984
+272;grasso;elisabeth;F;1975;;Bulletins d'adhésion, 1973-1984
+273;vuille;nicole;F;1976;;Bulletins d'adhésion, 1973-1984
+274;ramseyer-vuilleumier;ginette;F;1976;;Bulletins d'adhésion, 1973-1984
+275;martin;jacques;M;1976;;Bulletins d'adhésion, 1973-1984
+276;martin;micheline;F;1976;;Bulletins d'adhésion, 1973-1984
+277;ramseyer;gerald;M;1976;;Bulletins d'adhésion, 1973-1984
+278;bolle;andre;M;1976;;Bulletins d'adhésion, 1973-1984
+279;bolle;liliane;F;1976;;Bulletins d'adhésion, 1973-1984
+280;taquet;josiane;F;1976;;Bulletins d'adhésion, 1973-1984
+281;maytain;pierrette;F;1976;;Bulletins d'adhésion, 1973-1984
+282;maytain;rene;M;1976;;Bulletins d'adhésion, 1973-1984
+283;lenoble;patrice;M;1976;;Bulletins d'adhésion, 1973-1984
+284;andre;marianne;F;1976;;Bulletins d'adhésion, 1973-1984
+285;griessen;renee;F;1976;;Bulletins d'adhésion, 1973-1984
+286;sauvain;francoise;F;1976;;Bulletins d'adhésion, 1973-1984
+287;moser;francine;F;1976;;Bulletins d'adhésion, 1973-1984
+288;humbert;suzanne;F;1976;;Bulletins d'adhésion, 1973-1984
+289;papetti;chantal;F;1976;;Bulletins d'adhésion, 1973-1984
+290;del_monaco;mauricette;F;1976;;Bulletins d'adhésion, 1973-1984
+291;riat;juliette;F;1976;;Bulletins d'adhésion, 1973-1984
+292;ramseyer;esther;F;1976;;Bulletins d'adhésion, 1973-1984
+293;andre;pierre;M;1976;;Bulletins d'adhésion, 1973-1984
+294;cornu;gerard;M;1976;;Bulletins d'adhésion, 1973-1984
+295;cornu;anne-marie;F;1976;;Bulletins d'adhésion, 1973-1984
+296;kraemer;marie-louise;F;1976;;Bulletins d'adhésion, 1973-1984
+297;kraemer;pierre;M;1976;;Bulletins d'adhésion, 1973-1984
+298;hoffmann;andre-lise;F;1976;;Bulletins d'adhésion, 1973-1984
+299;bringolf;rosine;F;1977;;Bulletins d'adhésion, 1973-1984
+300;greub;josiane;F;1977;;Bulletins d'adhésion, 1973-1984
+301;hulmann;josette;F;1977;;Bulletins d'adhésion, 1973-1984
+302;noth;michele;F;1977;;Bulletins d'adhésion, 1973-1984
+303;buri;arlette_emma;F;1977;;Bulletins d'adhésion, 1973-1984
+304;gerussi;marie-claire;F;1977;;Bulletins d'adhésion, 1973-1984
+305;zybach;rose-marie;F;1977;;Bulletins d'adhésion, 1973-1984
+306;zybach;claude;M;1977;;Bulletins d'adhésion, 1973-1984
+307;delannoy;dolly;F;1977;;Bulletins d'adhésion, 1973-1984
+308;luginbuhl;raymonde;F;1977;;Bulletins d'adhésion, 1973-1984
+309;geiser;martine;F;1977;;Bulletins d'adhésion, 1973-1984
+310;dubois;simone;F;1978;;Bulletins d'adhésion, 1973-1984
+311;dubois;andre;M;1978;;Bulletins d'adhésion, 1973-1984
+312;brigadoi;josette;F;1979;;Bulletins d'adhésion, 1973-1984
+313;bringolf;helene_anouk;F;1978;;Bulletins d'adhésion, 1973-1984
+314;bigarini_gether;suzanne;F;1978;;Bulletins d'adhésion, 1973-1984
+315;de_la_reusille;denis;M;1980;;Bulletins d'adhésion, 1973-1984
