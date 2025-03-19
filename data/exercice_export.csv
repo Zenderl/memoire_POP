@@ -1,0 +1,95 @@
+﻿pk_exercice;annee_debut;annee_fin;sources;fk_fonction;fk_personne
+1;1951;;n47, 7e congrès du POP, rapport politique;1;1
+2;1968;;n47, 16e congrès du POP, proposition pour le comité cantonal;2;2
+3;1968;;n47, 16e congrès du POP, proposition pour le comité cantonal;2;3
+4;1968;;n47, 16e congrès du POP, proposition pour le comité cantonal;2;4
+5;1968;;n47, 16e congrès du POP, proposition pour le comité cantonal;2;5
+6;1968;;n47, 16e congrès du POP, proposition pour le comité cantonal;2;6
+7;1973;;n216, Procès-verbaux section cantonal, PV du comité cantonal du 27.04.1973;3;1
+8;1979;;n47, 20e congrès du POP, proposition pour le Comité cantonal;2;9
+9;1979;;n47, 20e congrès du POP, proposition pour le Comité cantonal;2;10
+10;1979;;n47, 20e congrès du POP, proposition pour le Comité cantonal;2;11
+11;1949;1955;rencontre JD Blant, 21.11.202;4;1
+12;1958;1973;n216, Procès-verbaux section cantonal, PV du comité cantonal du 27.04.1973;4;21
+13;1973;;n216, Procès-verbaux section cantonal, PV du comité cantonal du 27.04.1973;4;117
+14;1969;;n216, Procès-verbaux section cantonal, congrès du POP neuchatelois, 12.10.1968;6;84
+15;;1968;n216, Procès-verbaux section cantonal, congrès du POP neuchatelois, 12.10.1968;6;83
+16;1953;;n216, Procès-verbaux section cantonal,assemblée générale annuelle, 12.2.1953;6;21
+17;;1953;n216, Procès-verbaux section cantonal,assemblée générale annuelle, 12.2.1953;6;85
+18;1955;;n216, Procès-verbaux section cantonal, PV du comité cantonal du 1.4.1955;3;1
+19;1955;1958;n216, Procès-verbaux section cantonal, PV du comité cantonal du 28.2.1958;4;86
+20;1964;1981;n216, Procès-verbaux section cantonal, PV du comité cantonal du 27.8.1964;8;2
+21;;;Fichier d'adresses + correspondances ;9;122
+22;1957;1981;4CHA-2/26;10;61
+23;1965;1969;4CHA-2/24;10;63
+24;1953;1957;"4CHA-2/24
+";10;64
+25;1977;1981;4CHA-2/27;10;80
+26;1953;1961;"4CHA-2/24
+";10;82
+27;1953;1961;"4CHA-2/24
+";10;83
+28;1965;1973;4CHA-2/24;10;83
+29;1953;1961;4CHA-2/24;10;84
+30;1965;1981;"4CHA-2/24
+";10;84
+31;1953;1957;"4CHA-2/24
+";10;85
+32;1965;1969;"4CHA-2/24
+";10;85
+33;1953;1961;"4CHA-2/24
+";10;86
+34;1965;1977;4CHA-2/25;10;94
+35;1965;1981;"4CHA-2/25
+";10;2
+36;1961;1973;"4CHA-2/25
+";10;4
+37;1961;1965;"4CHA-2/25
+";10;106
+38;1961;1965;"4CHA-2/25
+";10;108
+39;1965;1969;"4CHA-2/25
+";10;109
+40;1965;1981;"4CHA-2/25
+";10;111
+41;1973;1981;4CHA-2/27;10;118
+42;1959;1977;P. Milani, femmes dans la mouvance communiste..., p. 93;11;2
+43;1955;1977;P. Milani, femmes dans la mouvance communiste..., p. 93;12;4
+44;1962;1963;P. Milani, femmes dans la mouvance communiste..., p. 116;13;4
+45;1944;1944;"POP 101 - tracts POP
+- journal éléctions nationales 25-26 octobre 1975";15;2
+46;1944;1944;"POP 101 - tracts POP
+- journal éléctions nationales 25-26 octobre 1975";15;84
+47;1944;1964;notice bibliographique fonds AMC;6;84
+48;1944;1964;notice bibliographique fonds AMC;4;82
+49;1944;1944;notice bibliographique fonds AMC;15;82
+50;1968;1974;notice bibliographique fonds AMC;17;2
+51;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;26
+52;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;72
+53;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;319
+54;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;83
+55;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;84
+56;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;82
+57;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;316
+58;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;317
+59;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;318
+60;1944;;POP 231 - correspondances, PV du premier congrès du POP neuch, 24.09.1944;5;85
+61;1957;1965;4CHA-2/26;8;61
+62;1965;1969;4CHA-2/24;8;63
+63;1953;1957;4CHA-2/25;8;64
+64;1977;1981;4CHA-2/27;8;80
+65;1953;1964;4CHA-2/24;8;82
+66;1953;1961;4CHA-2/24;8;83
+67;1965;193;4CHA-2/24;8;83
+68;1953;1961;4CHA-2/24;8;84
+69;1965;1981;4CHA-2/24;8;84
+70;1953;1957;4CHA-2/24;8;85
+71;1965;1969;4CHA-2/24;8;85
+72;1953;1957;4CHA-2/24;8;86
+73;1965;1977;4CHA-2/25;8;94
+75;1961;1973;4CHA-2/25;8;4
+76;1961;1965;4CHA-2/25;8;106
+77;1961;1965;4CHA-2/25;8;108
+78;1965;1969;4CHA-2/25;8;109
+79;1965;1981;4CHA-2/25;8;111
+80;1973;1977;4CHA-2/27;8;118
