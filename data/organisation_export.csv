@@ -1,0 +1,10 @@
+pk_groupe;nom;definition;sources;fk_type_G
+1;POP;;;1
+2;FOMH;Syndicat de l'industrie, de la construction et des services;Bulletins d'adhésion, 1956-1973;2
+3;syndicat_commercant;;;2
+4;groupe_jeunes;;;1
+5;SSP;syndicat des services publics;;2
+6;SSEC;société suisse des employés de bureau;;2
+7;caisse_cantonal;;;2
+8;parti_communiste;ancêtre du POP jusqu'à son interdiction en 1937 à neuchâtel;;1
+9;FSPP;;;3
