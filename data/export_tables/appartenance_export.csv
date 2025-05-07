@@ -53,7 +53,181 @@ pk_appartenance;date_debut;date_fin;sources;fk_personne;fk_organisation
 52;;;Bulletins d'adhésion, 1973-1984;311;5
 53;;;Bulletins d'adhésion, 1973-1984;312;5
 54;;;Bulletins d'adhésion, 1973-1984;314;6
-55;;;Fichier d'adresses + correspondances ;123;5
 56;;;pop 108 - Pour vivre mieux et autrement., élections nationales 1979;8;5
 57;1952;1977;P. Milani, femmes dans la mouvance communiste..., p. 146;2;9
 58;1952;1977;P. Milani, femmes dans la mouvance communiste..., p. 146;4;9
+59;;;Bulletins d'adhésion, 1956-1973;322;10
+60;;;Bulletins d'adhésion, 1956-1973;60;2
+61;;;Bulletins d'adhésion, 1956-1973;24;11
+62;;;Bulletins d'adhésion, 1956-1973;328;2
+63;;;Bulletins d'adhésion, 1956-1973;329;5
+64;;;Bulletins d'adhésion, 1956-1973;330;3
+65;;;Bulletins d'adhésion, 1956-1973;331;2
+66;;;Bulletins d'adhésion, 1956-1973;332;5
+67;;;Bulletins d'adhésion, 1956-1973;333;2
+68;;;Bulletins d'adhésion, 1956-1973;334;2
+69;;;Bulletins d'adhésion, 1956-1973;335;2
+70;;;Bulletins d'adhésion, 1956-1973;337;2
+71;;;Bulletins d'adhésion, 1956-1973;338;11
+72;;;Bulletins d'adhésion, 1956-1973;340;2
+73;;;Bulletins d'adhésion, 1956-1973;343;2
+74;;;Bulletins d'adhésion, 1956-1973;344;2
+75;;;Bulletins d'adhésion, 1956-1973;345;3
+76;;;Bulletins d'adhésion, 1956-1973;347;2
+77;;;Bulletins d'adhésion, 1956-1973;348;2
+78;;;Bulletins d'adhésion, 1956-1973;349;2
+79;;;Bulletins d'adhésion, 1956-1973;350;2
+80;;;Bulletins d'adhésion, 1956-1973;101;2
+81;;;Bulletins d'adhésion, 1956-1973;352;2
+82;;;Bulletins d'adhésion, 1956-1973;353;2
+83;;;Bulletins d'adhésion, 1956-1973;355;2
+84;;;Bulletins d'adhésion, 1956-1973;357;2
+85;;;Bulletins d'adhésion, 1956-1973;358;2
+86;;;Bulletins d'adhésion, 1956-1973;359;2
+87;;;Bulletins d'adhésion, 1956-1973;362;12
+88;;;Bulletins d'adhésion, 1956-1973;364;2
+89;;;Bulletins d'adhésion, 1956-1973;368;2
+90;;;Bulletins d'adhésion, 1956-1973;369;2
+91;;;Bulletins d'adhésion, 1956-1973;371;2
+92;;;Bulletins d'adhésion, 1956-1973;373;2
+93;;;Bulletins d'adhésion, 1956-1973;375;12
+94;;;Bulletins d'adhésion, 1956-1973;376;2
+95;;;Bulletins d'adhésion, 1956-1973;377;3
+96;;;Bulletins d'adhésion, 1956-1973;380;5
+97;;;Bulletins d'adhésion, 1956-1973;381;2
+98;;;Bulletins d'adhésion, 1956-1973;384;11
+99;;;Bulletins d'adhésion, 1956-1973;389;2
+100;;;Bulletins d'adhésion, 1956-1973;390;2
+101;;;Bulletins d'adhésion, 1956-1973;400;2
+102;;;Bulletins d'adhésion, 1956-1973;405;2
+103;;;Bulletins d'adhésion, 1956-1973;413;2
+105;;;Bulletins d'adhésion, 1956-1973;418;5
+106;;;Bulletins d'adhésion, 1956-1973;419;5
+107;;;Bulletins d'adhésion, 1956-1973;423;5
+108;;;Bulletins d'adhésion, 1956-1973;464;5
+109;;;Bulletins d'adhésion, 1956-1973;465;2
+110;;;Bulletins d'adhésion, 1956-1973;467;2
+111;;;Bulletins d'adhésion, 1956-1973;468;2
+112;;;Bulletins d'adhésion, 1956-1973;470;2
+113;;;Bulletins d'adhésion, 1956-1973;473;2
+114;;;Bulletins d'adhésion, 1956-1973;430;2
+115;;;Bulletins d'adhésion, 1956-1973;474;2
+116;;;Bulletins d'adhésion, 1956-1973;476;2
+117;;;Bulletins d'adhésion, 1956-1973;478;12
+118;;;Bulletins d'adhésion, 1956-1973;440;2
+119;;;Bulletins d'adhésion, 1956-1973;481;2
+120;;;Bulletins d'adhésion, 1956-1973;129;2
+121;;;Bulletins d'adhésion, 1956-1973;483;11
+122;;;Bulletins d'adhésion, 1956-1973;487;2
+123;;;Bulletins d'adhésion, 1956-1973;490;2
+124;;;Bulletins d'adhésion, 1956-1973;491;2
+125;;;Bulletins d'adhésion, 1956-1973;493;2
+126;;;Bulletins d'adhésion, 1956-1973;494;2
+127;;;Bulletins d'adhésion, 1956-1973;497;2
+128;;;Bulletins d'adhésion, 1956-1973;53;2
+129;;;Bulletins d'adhésion, 1956-1973;503;2
+130;;;Bulletins d'adhésion, 1956-1973;504;2
+131;;;Bulletins d'adhésion, 1956-1973;509;2
+132;;;Bulletins d'adhésion, 1956-1973;510;2
+133;;;Bulletins d'adhésion, 1956-1973;511;2
+134;;;Bulletins d'adhésion, 1956-1973;512;7
+135;;;Bulletins d'adhésion, 1956-1973;513;7
+136;;;Bulletins d'adhésion, 1956-1973;514;7
+137;;;Bulletins d'adhésion, 1956-1973;515;2
+138;;;Bulletins d'adhésion, 1956-1973;517;7
+139;;;Bulletins d'adhésion, 1956-1973;518;2
+140;;;Bulletins d'adhésion, 1956-1973;519;2
+141;;;Bulletins d'adhésion, 1956-1973;521;2
+142;;;Bulletins d'adhésion, 1956-1973;524;2
+143;;;Bulletins d'adhésion, 1956-1973;526;13
+144;;;Bulletins d'adhésion, 1956-1973;528;2
+145;;;Bulletins d'adhésion, 1956-1973;529;5
+146;;;Bulletins d'adhésion, 1956-1973;530;5
+147;;;Bulletins d'adhésion, 1956-1973;531;2
+148;;;Bulletins d'adhésion, 1956-1973;532;5
+149;;;Bulletins d'adhésion, 1956-1973;533;2
+150;;;Bulletins d'adhésion, 1956-1973;534;2
+151;;;Bulletins d'adhésion, 1956-1973;535;14
+152;;;Bulletins d'adhésion, 1956-1973;536;2
+153;;;Bulletins d'adhésion, 1956-1973;537;2
+154;;;Bulletins d'adhésion, 1956-1973;539;2
+155;;;Bulletins d'adhésion, 1956-1973;229;2
+156;;;Bulletins d'adhésion, 1956-1973;540;2
+157;;;Bulletins d'adhésion, 1956-1973;544;2
+158;;;Bulletins d'adhésion, 1956-1973;545;2
+159;;;Bulletins d'adhésion, 1956-1973;546;2
+160;;;Bulletins d'adhésion, 1956-1973;549;5
+161;;;Bulletins d'adhésion, 1956-1973;552;5
+162;;;Bulletins d'adhésion, 1956-1973;553;5
+163;;;Bulletins d'adhésion, 1956-1973;557;2
+164;;;Bulletins d'adhésion, 1956-1973;558;5
+165;;;Bulletins d'adhésion, 1956-1973;559;2
+166;;;Bulletins d'adhésion, 1956-1973;561;5
+167;;;Bulletins d'adhésion, 1956-1973;564;2
+168;;;Bulletins d'adhésion, 1956-1973;566;3
+169;;;Bulletins d'adhésion, 1956-1973;569;5
+170;;;Bulletins d'adhésion, 1956-1973;570;5
+171;;;Bulletins d'adhésion, 1956-1973;320;2
+172;;;Bulletins d'adhésion, 1956-1973;436;12
+173;;;Bulletins d'adhésion, 1956-1973;583;12
+174;;;Bulletins d'adhésion, 1956-1973;588;15
+175;;;180 - lettres informations;1;16
+176;;;180 - lettres informations;2;16
+177;;;180 - lettres informations;62;16
+178;;;180 - lettres informations;591;16
+179;;;180 - lettres informations;3;16
+180;;;180 - lettres informations;592;16
+181;;;180 - lettres informations, lettre 5.7.1946;595;16
+182;;;Bulletins d'adhésion, 1956-1973;434;2
+183;;;Bulletins d'adhésion, 1956-1973;602;2
+184;;;Bulletins d'adhésion, 1956-1973;605;13
+185;;;Bulletins d'adhésion, 1956-1973;442;2
+186;;;Bulletins d'adhésion, 1956-1973;607;2
+187;;;Bulletins d'adhésion, 1956-1973;611;5
+188;;;Bulletins d'adhésion, 1956-1973;54;2
+189;;;Bulletins d'adhésion, 1956-1973;617;2
+190;;;Bulletins d'adhésion, 1956-1973;618;3
+191;;;Bulletins d'adhésion, 1956-1973;38;2
+192;;;Bulletins d'adhésion, 1956-1973;619;2
+193;;;UFPP. Membres et adhésion (30), adresses, comité 1977;2;17
+194;;;UFPP. Membres et adhésion (30), adresses, comité 1977;1;17
+195;;;UFPP. Membres et adhésion (30), adresses, comité 1977;4;17
+196;;;UFPP. Membres et adhésion (30), adresses, comité 1977;427;17
+197;;;UFPP. Membres et adhésion (30), adresses, comité 1977;3;17
+198;;;UFPP. Membres et adhésion (30), adresses, comité 1977;8;17
+199;;;UFPP. Membres et adhésion (30), adresses, comité 1977;262;17
+200;;;UFPP. Membres et adhésion (30), adresses, comité 1977;300;17
+201;;;UFPP. Membres et adhésion (30), liste 1963;5;17
+202;;;UFPP. Membres et adhésion (30), liste 1963;3;17
+203;;;UFPP. Membres et adhésion (30), liste 1963;220;17
+204;;;UFPP. Membres et adhésion (30), liste 1963;1;17
+205;;;UFPP. Membres et adhésion (30), liste 1963;313;17
+206;;;UFPP. Membres et adhésion (30), liste 1963;2;17
+207;;;UFPP. Membres et adhésion (30), liste 1963;190;17
+208;;;UFPP. Membres et adhésion (30), liste 1963;140;17
+209;;;UFPP. Membres et adhésion (30), liste 1963;4;17
+210;;;UFPP. Membres et adhésion (30), liste 1963;113;17
+211;;;UFPP. Membres et adhésion (30), liste 1963;151;17
+212;;;UFPP. Membres et adhésion (30), liste 1963;427;17
+213;;;UFPP. Membres et adhésion (30), liste 1963;584;17
+214;;;UFPP. Membres et adhésion (30), liste 1963;100;17
+215;;;UFPP. Membres et adhésion (30), liste 1963;144;17
+216;;;UFPP. Membres et adhésion (30), liste 1963;29;17
+217;;;UFPP. Membres et adhésion (30), liste 1963;146;17
+218;;;UFPP. Membres et adhésion (30), liste 1963;185;17
+219;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;591;17
+220;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;243;17
+221;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;214;17
+222;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;255;17
+223;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;62;17
+224;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;10;17
+225;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;270;17
+226;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;314;17
+227;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;624;17
+228;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;625;17
+229;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;168;17
+230;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;454;17
+231;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;262;17
+232;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;239;17
+233;;;UFPP. Membres et adhésion (30), liste établie fin 1964;305;17
+234;;;UFPP. Membres et adhésion (30), liste établie fin 1964;141;17
