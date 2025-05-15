@@ -13,7 +13,6 @@ pk_appartenance;date_debut;date_fin;sources;fk_personne;fk_organisation
 12;;;Bulletins d'adhésion, 1956-1973;169;2
 13;;;Bulletins d'adhésion, 1956-1973;170;6
 14;;;Bulletins d'adhésion, 1956-1973;178;2
-15;;;Bulletins d'adhésion, 1956-1973;179;2
 16;;;Bulletins d'adhésion, 1956-1973;190;5
 17;;;Bulletins d'adhésion, 1956-1973;194;2
 18;;;Bulletins d'adhésion, 1956-1973;193;2
@@ -189,45 +188,68 @@ pk_appartenance;date_debut;date_fin;sources;fk_personne;fk_organisation
 190;;;Bulletins d'adhésion, 1956-1973;618;3
 191;;;Bulletins d'adhésion, 1956-1973;38;2
 192;;;Bulletins d'adhésion, 1956-1973;619;2
-193;;;UFPP. Membres et adhésion (30), adresses, comité 1977;2;17
-194;;;UFPP. Membres et adhésion (30), adresses, comité 1977;1;17
-195;;;UFPP. Membres et adhésion (30), adresses, comité 1977;4;17
-196;;;UFPP. Membres et adhésion (30), adresses, comité 1977;427;17
-197;;;UFPP. Membres et adhésion (30), adresses, comité 1977;3;17
-198;;;UFPP. Membres et adhésion (30), adresses, comité 1977;8;17
-199;;;UFPP. Membres et adhésion (30), adresses, comité 1977;262;17
-200;;;UFPP. Membres et adhésion (30), adresses, comité 1977;300;17
-201;;;UFPP. Membres et adhésion (30), liste 1963;5;17
-202;;;UFPP. Membres et adhésion (30), liste 1963;3;17
-203;;;UFPP. Membres et adhésion (30), liste 1963;220;17
-204;;;UFPP. Membres et adhésion (30), liste 1963;1;17
-205;;;UFPP. Membres et adhésion (30), liste 1963;313;17
-206;;;UFPP. Membres et adhésion (30), liste 1963;2;17
-207;;;UFPP. Membres et adhésion (30), liste 1963;190;17
-208;;;UFPP. Membres et adhésion (30), liste 1963;140;17
-209;;;UFPP. Membres et adhésion (30), liste 1963;4;17
-210;;;UFPP. Membres et adhésion (30), liste 1963;113;17
-211;;;UFPP. Membres et adhésion (30), liste 1963;151;17
-212;;;UFPP. Membres et adhésion (30), liste 1963;427;17
-213;;;UFPP. Membres et adhésion (30), liste 1963;584;17
-214;;;UFPP. Membres et adhésion (30), liste 1963;100;17
-215;;;UFPP. Membres et adhésion (30), liste 1963;144;17
-216;;;UFPP. Membres et adhésion (30), liste 1963;29;17
-217;;;UFPP. Membres et adhésion (30), liste 1963;146;17
-218;;;UFPP. Membres et adhésion (30), liste 1963;185;17
-219;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;591;17
-220;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;243;17
-221;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;214;17
-222;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;255;17
-223;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;62;17
-224;;;UFPP. Membres et adhésion (30), liste alphabétique des personnes du 2 avril 1989;10;17
-225;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;270;17
-226;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;314;17
-227;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;624;17
-228;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;625;17
-229;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;168;17
-230;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;454;17
-231;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;262;17
-232;;;UFPP. Membres et adhésion (30), sympatisantes adresses utiles actuions diverses;239;17
-233;;;UFPP. Membres et adhésion (30), liste établie fin 1964;305;17
-234;;;UFPP. Membres et adhésion (30), liste établie fin 1964;141;17
+193;;;UFPP. Membres et adhesion (30), adresses, comite 1977;2;17
+194;;;UFPP. Membres et adhesion (30), adresses, comite 1977;1;17
+195;;;UFPP. Membres et adhesion (30), adresses, comite 1977;4;17
+196;;;UFPP. Membres et adhesion (30), adresses, comite 1977;427;17
+197;;;UFPP. Membres et adhesion (30), adresses, comite 1977;3;17
+198;;;UFPP. Membres et adhesion (30), adresses, comite 1977;8;17
+199;;;UFPP. Membres et adhesion (30), adresses, comite 1977;262;17
+200;;;UFPP. Membres et adhesion (30), adresses, comite 1977;300;17
+201;;;UFPP. Membres et adhesion (30), liste 1963;5;17
+202;;;UFPP. Membres et adhesion (30), liste 1963;3;17
+203;;;UFPP. Membres et adhesion (30), liste 1963;220;17
+204;;;UFPP. Membres et adhesion (30), liste 1963;1;17
+205;;;UFPP. Membres et adhesion (30), liste 1963;313;17
+206;;;UFPP. Membres et adhesion (30), liste 1963;2;17
+207;;;UFPP. Membres et adhesion (30), liste 1963;190;17
+208;;;UFPP. Membres et adhesion (30), liste 1963;140;17
+209;;;UFPP. Membres et adhesion (30), liste 1963;4;17
+210;;;UFPP. Membres et adhesion (30), liste 1963;113;17
+211;;;UFPP. Membres et adhesion (30), liste 1963;151;17
+212;;;UFPP. Membres et adhesion (30), liste 1963;427;17
+213;;;UFPP. Membres et adhesion (30), liste 1963;584;17
+214;;;UFPP. Membres et adhesion (30), liste 1963;100;17
+215;;;UFPP. Membres et adhesion (30), liste 1963;144;17
+216;;;UFPP. Membres et adhesion (30), liste 1963;29;17
+217;;;UFPP. Membres et adhesion (30), liste 1963;146;17
+218;;;UFPP. Membres et adhesion (30), liste 1963;185;17
+219;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;591;17
+220;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;243;17
+221;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;214;17
+222;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;255;17
+223;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;62;17
+224;;;UFPP. Membres et adhesion (30), liste alphabetique des personnes du 2 avril 1989;10;17
+225;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;270;17
+226;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;314;17
+227;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;624;17
+228;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;625;17
+229;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;168;17
+230;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;454;17
+231;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;262;17
+232;;;UFPP. Membres et adhesion (30), sympatisantes adresses utiles actuions diverses;239;17
+233;;;UFPP. Membres et adhesion (30), liste etablie fin 1964;305;17
+234;;;UFPP. Membres et adhesion (30), liste etablie fin 1964;141;17
+235;;;Bulletins d'adhésion, 1956-1973;632;2
+236;;;Bulletins d'adhésion, 1956-1973;633;5
+237;;;Bulletins d'adhésion, 1956-1973;634;2
+238;;;Bulletins d'adhésion, 1956-1973;636;2
+239;;;Bulletins d'adhésion, 1956-1973;120;11
+240;;;Bulletins d'adhésion, 1956-1973;439;2
+241;;;Bulletins d'adhésion, 1956-1973;638;2
+242;;;Bulletins d'adhésion, 1956-1973;639;5
+243;;;Bulletins d'adhésion, 1956-1973;644;3
+244;;;Bulletins d'adhésion, 1956-1973;646;6
+245;;;Bulletins d'adhésion, 1956-1973;647;5
+246;;;Bulletins d'adhésion, 1956-1973;651;2
+247;;;Bulletins d'adhésion, 1956-1973;652;2
+248;;;Bulletins d'adhésion, 1956-1973;119;11
+249;;;Bulletins d'adhésion, 1956-1973;654;2
+250;;;Bulletins d'adhésion, 1956-1973;657;5
+251;;;Bulletins d'adhésion, 1956-1973;658;2
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès;184;17
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès;209;17
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès;425;17
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès;8;17
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès;299;17
+;;;UFPP. Membres et adhesion (30), membre union des femmes pour la paix et le progrès. Section chaux-de-fonds;196;
