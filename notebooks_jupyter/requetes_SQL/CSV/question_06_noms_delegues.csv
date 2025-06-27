@@ -1,0 +1,16 @@
+,nom,prenom,genre,delegue,debut,fin
+0,corswant,andre,M,delegue_pst,1944.0,1964.0
+1,steiger,jean,M,delegue_pst,1944.0,1987.0
+2,guyot,jules,M,delegue_pst,1944.0,1946.0
+3,blaser,frederic,M,delegue_pst,1949.0,
+4,frutiger,charles,M,delegue_pst,1949.0,1952.0
+5,sidler,louis,M,delegue_pst,1959.0,1974.0
+6,berger,gerard,M,delegue_pst,1964.0,1991.0
+7,corswant_hirsch,marcelle,F,delegue_pst,1968.0,1974.0
+8,blaser,jean,M,delegue_pst,1968.0,1987.0
+9,broillet,etienne,M,delegue_pst,1968.0,1978.0
+10,greub,margot,F,delegue_pst,1974.0,1983.0
+11,dind,jacques,M,delegue_pst,1978.0,1983.0
+12,bringolf,alain,M,delegue_pst,1983.0,
+13,gerussi,marie-claire,F,delegue_pst,1983.0,1991.0
+14,steiger-beguin,frederique,F,delegue_pst,1987.0,1991.0
